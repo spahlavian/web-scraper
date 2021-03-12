@@ -1,6 +1,13 @@
 """
 A simple we scrapping script using selenium.
 Intended to be used for educational purposes only.
+
+No licensing is required to use this code, 
+but I will apprciate if you reference Rational Machines
+IG page and/or YT channel:
+
+@rational_machines
+bit.ly/3rU7nKY
 """
 
 # Install the following packages first:
